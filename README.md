@@ -1,16 +1,16 @@
 # CodeClause
 Projects of Python Intership at CodeClause.
 
-</br>
+<br/>
 
 ## Live Demo:
 - [visit](https://codeclause-internship.streamlit.app)
 
-</br>
+<br/>
 
 [//]: # (## Showcase video: [LinkdIn]&#40;&#41;)
 
-[//]: </br>
+[//]: <br/>
 
 ## List of Projects
 1. [Music Player](pages/1_Music_Player.py)
@@ -18,7 +18,7 @@ Projects of Python Intership at CodeClause.
 3. [Mail Application](pages/3_Mail_App.py)
 4. [Plagiarism Checker](pages/4_Plagiarism_Checker.py)
 
-</br>
+<br/>
 
 ## How to run
 1. Clone the repository.
@@ -32,6 +32,6 @@ pip3 install -r requirements.txt
 streamlit run Home.py
 ```
 
-</br>
+<br/>
 
 ### Thank You for visiting!
