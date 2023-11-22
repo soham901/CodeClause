@@ -1,5 +1,5 @@
 # CodeClause
-Projects of Python Intership at CodeClause.
+Projects of Python Internship at CodeClause.
 
 <br/>
 
