@@ -23,7 +23,6 @@ else:
     email_sender = st.session_state.get('email')
     password = st.session_state.get('password')
     st.write(f'Logged in as {email_sender}')
-    st.write(password)
     email_receiver = st.text_input('Receiver\'s Email')
     subject = st.text_input('Subject')
     body = st.text_area('Body')
